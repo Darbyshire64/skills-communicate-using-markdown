@@ -7,3 +7,4 @@
 ```bash
  git clone https://github.com/Darbyshire64/Portfolio
 ```
+<img alt="Cloud" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
