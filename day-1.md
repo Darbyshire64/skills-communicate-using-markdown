@@ -4,3 +4,6 @@
  - [ ] Build a Portfolio Of Work
  - [ ] Learn How to Make Clean Github Repos
 ## Review
+```bash
+ git clone https://github.com/Darbyshire64/Portfolio
+```
